@@ -9,6 +9,6 @@ def least_coins(cents)
  puts solution
 end 
   
-  least_coins(76)
+  least_coins(3)
   
   
