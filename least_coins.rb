@@ -1,6 +1,7 @@
 #write out your code here
 
 
+
 def least_coins(cents)
 cents = {"quarters"=> 2, "dimes" => 5, "nickels" => 10, "pennies"=> 50}
   puts "number = #{cents}"
@@ -10,3 +11,13 @@ least_coins(cents)
 
 
 
+def least_coins(cents)
+  solution = {}
+  
+  
+  
+  
+  
+  
+  
+  
