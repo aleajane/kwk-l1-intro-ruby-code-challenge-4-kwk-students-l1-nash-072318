@@ -3,7 +3,8 @@
 
 
 def least_coins(cents)
-  number = 30 
-coins={"quarters"=> 25, "dimes" => 10, "nickels" => 5, "pennies"=> 1}
-  puts "number"
+  number = 50 
+coins={"quarters"=> 2, "dimes" => 5, "nickels" => 10 "pennies"=> 50}
+  puts "
+  
 end
