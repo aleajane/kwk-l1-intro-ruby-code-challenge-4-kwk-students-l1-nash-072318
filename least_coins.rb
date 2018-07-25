@@ -21,6 +21,6 @@ num_dimes = cents/ 10
  puts solution
 end 
   
-  least_coins(1010101038)
+  least_coins(5)
   
   
