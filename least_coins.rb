@@ -6,7 +6,7 @@ def least_coins(cents)
  solution[:quarters]=num_quarters
  cents = cents - 25*num_quarters
  
-cents = num_dimes/ 10
+num_dimes = cents/ 10
  solution[:dimes]=num_dimes
  puts solution
 end 
